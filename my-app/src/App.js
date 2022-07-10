@@ -4,6 +4,7 @@ import Baner from "./components/Baner";
 import Cards from "./components/Cards";
 import Search from "./components/Search";
 import Logo from "./components/Logo";
+import Footer from "./components/Footer";
 class App extends Component {
   render(){
     return (
@@ -13,6 +14,7 @@ class App extends Component {
        <Cards />
        <Search />
        <Logo />
+       <Footer />
       </div>
     );
   }
