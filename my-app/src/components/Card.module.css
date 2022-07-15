@@ -22,3 +22,16 @@
 
 
 }
+.counterContainer{
+    display: flex;
+}
+.counterContainer img {
+    width: 20px;
+    height: 20px;
+    /* padding: 15px; */
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.deActive{
+    opacity: 0.3;
+}
